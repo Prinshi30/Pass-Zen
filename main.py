@@ -1,4 +1,6 @@
 #common code
+#var 
+#int
 
 print("hello world")
 a= 2
